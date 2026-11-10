@@ -15,7 +15,7 @@ donantes, donaciones, unidades, tamizaje, solicitudes de transfusión y trazabil
 | `sql/01_ddl.sql` | Crea la base `banco_sangre` y las 16 tablas con sus restricciones |
 | `sql/02_dml.sql` | Datos de prueba completos (ficticios) |
 | `sql/03_consultas.sql` | 5 consultas de álgebra relacional traducidas a SQL |
-| `diagrama/Proyecto_BD` | Diagrama Entidad-Relación, editable en draw.io |
+| `diagrama/Proyecto_BD.drawio` | Diagrama Entidad-Relación, editable en draw.io |
 
 ## Cómo ejecutarlo (MySQL 8.0.16 o superior)
 
